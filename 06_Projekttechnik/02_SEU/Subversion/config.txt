@@ -133,6 +133,8 @@ Makefile = svn:mime-type=text/plain;svn:eol-style=native;svn:keywords="Id Date R
 *.pom = svn:mime-type=text/xml;svn:eol-style=native
 *.jsp = svn:mime-type=text/xml;svn:eol-style=native
 *.wsdl = svn:mime-type=text/xml;svn:eol-style=native
+*.ecore = svn:mime-type=text/xml;svn:eol-style=native
+*.genmodel = svn:mime-type=text/xml;svn:eol-style=native
 #build.xml = svn:mime-type=text/xml;svn:eol-style=native
 #web.xml = svn:mime-type=text/xml;svn:eol-style=native
 # Vector Graphics Formats (LINUX-SPECIFIC!)
